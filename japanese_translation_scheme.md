@@ -109,7 +109,7 @@ LaTeX, reST, Markdownとも内容をコメントアウトすることが可能�
 
 ### 翻訳例
 
-以下に期待される翻訳例を載せます。私が作業中の`position_paper`の訳です:
+以下に期待される翻訳例を載せます。私が作業中の`position_paper`の訳の一部です:
 
 ```latex
 \begin{abstract}
